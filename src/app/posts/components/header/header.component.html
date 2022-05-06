@@ -1,0 +1,25 @@
+<!-- <mat-toolbar color="primary">
+  <span>
+    <a class="cursor-pointer" (click)="router.navigate(['/'])">My Messages</a>
+  </span>
+  <span style="margin-left: auto;">
+    <ul class="no-text-decoration no-list-style">
+      <li>
+        <a mat-button class="cursor-pointer" (click)="router.navigate(['create'])">New Post</a>
+      </li>
+    </ul>
+  </span>
+</mat-toolbar> -->
+
+<mat-toolbar color="primary">
+  <span>
+    <a class="no-text-decoration" style="color: white;" routerLink="/">My Messages</a>
+  </span>
+  <span style="margin-left: auto;">
+    <ul class="no-text-decoration no-list-style">
+      <li>
+        <a mat-button routerLink="/create" routerLinkActive="router-link-active">New Post</a>
+      </li>
+    </ul>
+  </span>
+</mat-toolbar>

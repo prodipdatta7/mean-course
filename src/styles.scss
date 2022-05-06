@@ -1,1 +1,99 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.no-list-style {
+  list-style: none !important;
+}
+
+.no-text-decoration {
+  text-decoration: none !important;
+}
+
+// padding classes
+
+.p-0 {
+  padding: 0px !important;
+}
+.p-2 {
+  padding: 2px !important;
+}
+.p-4 {
+  padding: 4px !important;
+}
+.p-8 {
+  padding: 8px !important;
+}
+.p-12 {
+  padding: 12px !important;
+}
+.p-16 {
+  padding: 16px !important;
+}
+.p-20 {
+  padding: 20px !important;
+}
+.p-24 {
+  padding: 24px !important;
+}
+.p-28 {
+  padding: 28px !important;
+}
+.p-32 {
+  padding: 32px !important;
+}
+.p-36 {
+  padding: 36px !important;
+}
+.p-40 {
+  padding: 40px !important;
+}
+.p-44 {
+  padding: 44px !important;
+}
+
+// margin classes
+
+.m-0 {
+  margin: 0px !important;
+}
+.m-2 {
+  margin: 2px !important;
+}
+.m-4 {
+  margin: 4px !important;
+}
+.m-8 {
+  margin: 8px !important;
+}
+.m-12 {
+  margin: 12px !important;
+}
+.m-16 {
+  margin: 16px !important;
+}
+.m-20 {
+  margin: 20px !important;
+}
+.m-24 {
+  margin: 24px !important;
+}
+.m-28 {
+  margin: 28px !important;
+}
+.m-32 {
+  margin: 32px !important;
+}
+.m-36 {
+  margin: 36px !important;
+}
+.m-40 {
+  margin: 40px !important;
+}
+.m-44 {
+  margin: 44px !important;
+}
+
